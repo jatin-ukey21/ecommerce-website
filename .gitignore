@@ -1,0 +1,13 @@
+# React frontend
+/eCommersApp-frontend/node_modules/
+/eCommersApp-frontend/build/
+/eCommersApp-frontend/dist/
+
+# Spring Boot backend
+/eCommersApp-backend/target/
+
+# IDE and system
+.idea/
+.vscode/
+*.iml
+.DS_Store
