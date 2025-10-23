@@ -59,7 +59,7 @@ It demonstrates a **complete full-stack workflow**, from RESTful backend APIs to
 
 > The schema diagram below represents how the entities (Users, Products, Orders, etc.) are related in the database.
 
-![Schema Diagram](./images/schema.png)
+![Schema Diagram](./images/schema.jpg)
 
 > Replace the path above with your actual schema image path if different.
 
@@ -161,7 +161,7 @@ ecommerce-website/
 > Place screenshots as numbered files (e.g., `1.png`, `2.png`, ...).  
 > Update filenames or paths below if your names differ.
 
-### 🧩 User Interface (16 images)
+### 🧩 User Interface
 
 Showcasing user-facing features like product browsing, cart, checkout, and order history.
 
@@ -184,7 +184,7 @@ Showcasing user-facing features like product browsing, cart, checkout, and order
 
 ---
 
-### 🧑‍💼 Admin Interface (5 images)
+### 🧑‍💼 Admin Interface
 
 Showcasing admin panel features like product management, dashboard, and analytics.
 
@@ -196,7 +196,7 @@ Showcasing admin panel features like product management, dashboard, and analytic
 
 ---
 
-### ⚙️ Backend API (Swagger) (11 images)
+### ⚙️ Backend API (Swagger)
 
 Showcasing backend endpoints, entities, and Swagger documentation.
 
