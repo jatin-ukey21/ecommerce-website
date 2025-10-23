@@ -61,8 +61,6 @@ It demonstrates a **complete full-stack workflow**, from RESTful backend APIs to
 
 ![Schema Diagram](./images/schema.jpg)
 
-> Replace the path above with your actual schema image path if different.
-
 ---
 
 ## ✨ Features
@@ -106,7 +104,6 @@ ecommerce-website/
 └── README.md
 ```
 
-> If your folder names differ, update them accordingly in this README.
 
 ---
 
